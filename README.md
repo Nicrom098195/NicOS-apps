@@ -1,12 +1,12 @@
 # NicOS-apps
 
-[NicOS](nicos.nicromcampe.repl.co) is a small web-based os that I've developed on [replit](https://repl.it).
+[NicOS](https://nicos.nicromcampe.repl.co) is a small web-based os that I've developed on [replit](https://repl.it).
 
 You can install applications in NicOS in this way:
 
 ## 1. Open the package installer
 
-Go on [NicOS](nicos.nicromcampe.repl.co) and open the package installer
+Go on [NicOS](https://nicos.nicromcampe.repl.co) and open the package installer
 
 ![Package installer](https://i.imgur.com/S5jZNd8.png)
 
