@@ -44,3 +44,6 @@ This is the basic json file of the app, now you have to chose:
 I suggest you to use an **<iframe>** tag for the code, and inserting the webpage you want to see.
 
 The final result should be like [this](https://github.com/Nicrom098195/NicOS-apps/blob/main/apps/demo_app/app.json)
+ 
+After this, you must to upload the file onlino to any hosting like [Pastebin](https://pastebin.com/) or [GitHub](https://github.com/), and to paste the URL of the file in the Packages installer.
+Now you have a basic NicOS app, and you can do now any application you want, fantasy is the only limit.
