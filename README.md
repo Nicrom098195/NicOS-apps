@@ -49,3 +49,9 @@ The final result should be like [this](https://github.com/Nicrom098195/NicOS-app
  
 After this, you must to upload the file onlino to any hosting like [Pastebin](https://pastebin.com/) or [GitHub](https://github.com/), and to paste the URL of the file in the Packages installer.
 Now you have a basic NicOS app, and you can do now any application you want, your fantasy is the only limit.
+
+ 
+ ## Note
+ 
+ you can use the **notification** function to show notifications with:
+ ```notification(title,text,emergency[true|false])```<br>For example:<br>```notification("Virus detected","There is a virus in your device",true)```<br>will show this:<br>![Emergency notification](https://i.imgur.com/xCyf5e6.png)<br>Or this:<br>```notification("Welcome to NicOS","Welcome to NicOS, the web-based OS")```<br>will show:<br>![Normal notification](https://i.imgur.com/0kPpDc6.png)
