@@ -23,6 +23,8 @@ After pasting the URL of the app, install that clicking the **Install** button
 
 ![Install button](https://i.imgur.com/u0mInS1.png)
 
+Then should appear a notification showing that the app has been installed successfully
+
 # Developing an application
 
 Everyone can develope a NicOS application, the requirements are:
